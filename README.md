@@ -1,3 +1,4 @@
-# tiralabra_HY
+# tiralabra
 
 Kurssirepositorio Helsingin yliopiston kurssille Tietorakenteet ja Algortimit - labratyö
+
